@@ -1,8 +1,8 @@
-package org.meuprojeto;
+package org.meuprojeto.application;
 
 public class Program {
 
     public static void main(String[] args) {
-        
+
     }
 }
